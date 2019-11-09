@@ -1,7 +1,7 @@
 {
   "name": "docker-toolkit-cli",
   "version": "0.0.1",
-  "description": "",
+  "description": "Docker toolkit CLI",
   "main": "cli.js",
   "scripts": {
     "start": "nodemon cli.js --watch . --watch ../docker/index.js",

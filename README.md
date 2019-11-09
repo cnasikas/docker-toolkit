@@ -2,6 +2,8 @@
 
 # docker-toolkit
 
+Manage docker containers and images from a from a graphical user interface.
+
 ## Installation
 
 - `cd ./docker && yarn install`

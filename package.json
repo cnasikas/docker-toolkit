@@ -1,7 +1,7 @@
 {
   "name": "docker-toolkit",
   "version": "0.0.1",
-  "description": "",
+  "description": "Manage docker containers and images from a from a graphical user interface",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,7 +1,7 @@
 {
   "name": "docker-toolkit-docker-api",
   "version": "0.0.1",
-  "description": "",
+  "description": "Docker API",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js --watch .",
