@@ -1,0 +1,37 @@
+{
+  "name": "docker-toolkit-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "start": "nodemon cli.js --watch . --watch ../docker/index.js",
+    "lint": "standard"
+  },
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "author": {
+    "name": "Christos Nasikas",
+    "email": "xristosnasikas@gmail.com",
+    "url": "https://christosnasikas.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnasikas/docker-toolkit.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnasikas/docker-toolkit/issues"
+  },
+  "homepage": "https://github.com/cnasikas/docker-toolkit#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-table3": "^0.5.1",
+    "dotenv": "^8.1.0",
+    "standard": "^14.3.0",
+    "yargs": "^14.0.0"
+  }
+}
