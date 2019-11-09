@@ -2,7 +2,7 @@
 
 # docker-toolkit
 
-Manage docker containers and images from a from a graphical user interface.
+Manage docker containers and images from a graphical user interface.
 
 ## Installation
 
